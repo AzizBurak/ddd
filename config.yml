@@ -1,0 +1,18 @@
+settings:
+  prefix: "!"
+  token: "tokeniniz"
+  botName: "vinTicket"
+  ticketCategory: "talepkategorisi"
+  logChannelID: "logkanalı"
+  staffRoleID: "yetkilirolü"
+  staffAnnouncer: true #kapatmak istiyorsanız, staffAnnouncer: false olarak değiştirin.
+  buttonClose: true #kapatmak istiyorsanız, buttonClose: false olarak değiştirin.
+  category: false #kapatmak istiyorsanız, category: false olarak değiştirin.
+  log: true #kapatmak istiyorsanız, log: false olarak değiştirin.
+
+embed:
+  title: "Clique, destek sistemi."
+  color: "#eb4034"
+  footer: "ufotable#7358"
+  image: "https://cdn.discordapp.com/attachments/854028396518703154/936759004732989562/cliquebanner.png"
+
